@@ -17,8 +17,5 @@ Some results are shown below
 
 ### Minimum snap trajectory
 
-- Trajectory followed
-<img src="res/3D_Path2.png" width="320" title="maze">
-
 - Animation
 <img src="res/maze.gif" width="320" title="maze">
